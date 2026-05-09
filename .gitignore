@@ -1,0 +1,24 @@
+
+# === git-auto-commit skillにより追加 ===
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+*.csv
+*.xlsx
+*.xls
+data/
+clients/
+customers/
+private/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+logs/
